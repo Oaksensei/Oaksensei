@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>{{Pongpipat Muangdung}}</b><br/>
+  <b>Pongpipat Muangdung</b><br/>
   Computer Engineering & AI student • Interested in Full-Stack, Data, and ML
 </p>
 
@@ -13,7 +13,7 @@
 ## About Me
 - Working on **SmartHeart Care**: Mobile ECG acquisition + AI ECG Classificatin and AI Qualoty Check + dashboard
 - Interested in: **Web/Mobile**, **Time-series data**, **Machine Learning**
-- Contact: **{{pongpipat1223@gmail.com}}**
+- Contact: **pongpipat1223@gmail.com**
 
 ---
 
@@ -35,8 +35,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username={{Oaksensei}}&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{Oaksensei}}&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Oaksensei&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaksensei&layout=compact" />
 </p>
 
 ---

@@ -35,7 +35,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Oaksensei&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Oaksensei&show_icons=true&hide_rank=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaksensei&layout=compact" />
 </p>
 
 ---

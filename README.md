@@ -11,7 +11,7 @@
 ---
 
 ## About Me
-- Working on **SmartHeart Care**: Mobile ECG acquisition + AI ECG Classificatin and AI Qualoty Check + dashboard
+- Working on **SmartHeart Care**: Mobile ECG acquisition + AI ECG Classification and AI Qualoty Check + dashboard
 - Interested in: **Web/Mobile**, **Time-series data**, **Machine Learning**
 - Contact: **pongpipat1223@gmail.com**
 
@@ -42,7 +42,7 @@
 ---
 
 ## Featured Projects
-- **SmartHeart Care** — Mobile ECG + AI ECG Classificatin and AI Qualoty Check + web dashboard
+- **SmartHeart Care** — Mobile ECG + AI ECG Classification and AI Qualoty Check + web dashboard
 - **ECG Pattern Classification (CNN)** — signal-to-image + CNN experiments
 
 > Tip: Pin repos on your GitHub profile to show them here.
